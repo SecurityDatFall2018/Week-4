@@ -12,8 +12,10 @@ and some advice for securing the rest of the DB in case of penetration.
   https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 * An alternative source:
   [The Hitchhiker's Guide to SQL Injection   prevention](https://phpdelusions.net/sql_injection)
-* SQL inject: https://github.com/DatSecurityCourseSpring2018/week2SQLinject
+* SQL inject with assignment: https://github.com/SecurityDatFall2018/Week-4-SQLInject
 * On XSS: [Cross-site Scripting (XSS) Attack](https://www.acunetix.com/websitesecurity/cross-site-scripting/)
+
+Slides: [04-A1 SQL injection.pdf](https://github.com/SecurityDatFall2018/Week-1/blob/master/04-A1%20SQL%20injection.pdf)
 
 
 ## Learning Goals
