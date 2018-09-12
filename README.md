@@ -15,7 +15,7 @@ and some advice for securing the rest of the DB in case of penetration.
 * SQL inject with assignment: https://github.com/SecurityDatFall2018/Week-4-SQLInject
 * On XSS: [Cross-site Scripting (XSS) Attack](https://www.acunetix.com/websitesecurity/cross-site-scripting/)
 
-Slides: [04-A1 SQL injection.pdf](https://github.com/SecurityDatFall2018/Week-1/blob/master/04-A1%20SQL%20injection.pdf)
+Slides: [04-A1 SQL injection.pdf](https://github.com/SecurityDatFall2018/Week-4/blob/master/04-A1%20SQL%20injection.pdf)
 
 
 ## Learning Goals
